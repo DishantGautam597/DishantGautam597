@@ -1,3 +1,5 @@
+![Dishant Gautam](https://github.com/DishantGautam597/DishantGautam597/blob/main/dishant-gautam-signature-light-blue-fixed.svg)
+
 # 💫 About Me:
 🎓 B.Tech CSE (AIML) student<br>💻 Passionate about Data Structures & Algorithms, Java, and Problem Solving<br>📊 Exploring Data Engineering, Machine Learning, and Backend Development<br>🚀 Always learning, building, and improving one project at a time
 
